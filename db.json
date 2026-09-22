@@ -1,0 +1,45 @@
+{
+  "Pytania":[
+    {
+      "tresc":"Jaka jest dzisiaj pogoda?",
+      "odp_a":"Dobra",
+      "odp_b":"Zła",
+      "odp_c":"Pochmurna",
+      "odp_d":"Jacek",
+      "poprawna":3
+    },
+    {
+    "tresc":"Jak jest pies po niemiecku?",
+    "odp_a":"Hundr",
+    "odp_b":"Honda",
+    "odp_c":"Hund",
+    "odp_d":"Chunt",
+    "poprawna":2
+    },
+    {
+      "tresc":"Jaka?",
+      "odp_a":"Dobra",
+      "odp_b":"Taka",
+      "odp_c":"Smaka",
+      "odp_d":"Sraka",
+      "poprawna":3
+    },
+    {
+      "tresc":"Koło auto?",
+      "odp_a":"Indie",
+      "odp_b":"Ameryka",
+      "odp_c":"Australia",
+      "odp_d":"Islandia",
+      "poprawna":2
+    },
+    {
+      "tresc":"Maka?",
+      "odp_a":"Paka",
+      "odp_b":"Taka",
+      "odp_c":"Smaka",
+      "odp_d":"Sraka",
+      "poprawna":0
+    }
+  ]
+  
+}
